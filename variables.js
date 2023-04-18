@@ -6,3 +6,7 @@ var bonus = 100,000
 
 var rich = false
 var poor = true
+
+email = "goodbyeworld@gmail.com"
+firstName = Kevin
+animal = "Fish"
