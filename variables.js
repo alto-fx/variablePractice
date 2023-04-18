@@ -10,3 +10,7 @@ var poor = true
 email = "goodbyeworld@gmail.com"
 firstName = Kevin
 animal = "Fish"
+
+console.log(email);
+console.log(name);
+console.log(animal);
